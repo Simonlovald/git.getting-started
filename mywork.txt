@@ -1,5 +1,4 @@
 A test file that is there and can be modified by you. 
 ***update**
-Can only be opened using "mousepad"
 
 This should create a merge conflict
